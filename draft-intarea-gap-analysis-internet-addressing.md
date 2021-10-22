@@ -683,10 +683,9 @@ This document does not include any IANA request.
 -->
 
 
-
-
 # Acknowledgments
 {:numbered="false"}
 
 Thanks to Carsten Bormann for useful conversations.
 <!-- [LI]: In revision 2 we ca add the panelists :-) -->
+
